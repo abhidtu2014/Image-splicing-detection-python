@@ -17,7 +17,7 @@ contains image.
 in anaconda environment.
 - Rest is simple, code is self explanatory.
 
-# Expalanation:
+# Features:
 
 > In this project, an improved image splicing detection is purposed which is
 > based on global and local features of an image. 
